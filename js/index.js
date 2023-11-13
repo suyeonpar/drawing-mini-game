@@ -2,18 +2,6 @@ const canvas = document.querySelector("#canvas");
 //그래픽 작업 수행
 const ctx = canvas.getContext("2d");
 
-function createElement(tag, className) {
-  const element = document.createElement(tag);
-  element.className = className;
-  return element;
-}
-
-const wrap = createElement("div", "wrap");
-const title = createElement("h1", "title")
-title.textContent = "마우스 그림그리기"
-body.appendChild(title);
-body.appendChild(wrap);
-
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
 
