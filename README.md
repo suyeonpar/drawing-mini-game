@@ -11,6 +11,19 @@
 
 <img src="https://github.com/suyeonpar/drawing-mini-game/assets/142365626/d2c0d17a-41cf-414e-a32a-783856bcc527" width="400" height="200" alt="image">
 
+### 사용한 기술
+
+
+#### Environmnet
+
+![image](https://github.com/suyeonpar/clone-belif/assets/142365626/40429fb4-d844-4ea9-b9cd-f2f9f89fbd79)
+
+
+
+#### Development
+
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
 정말 간단하면서도 다시금 자바스크립트의 기본 원리에 대해 알아 볼 수 있었다.
 
 
