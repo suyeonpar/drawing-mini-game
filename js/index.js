@@ -2,6 +2,13 @@ const canvas = document.querySelector("#canvas");
 //그래픽 작업 수행
 const ctx = canvas.getContext("2d");
 
+const h3Element = document.querySelector('h3');
+h3Element.style.fontSize = '35px';
+h3Element.style.textAlign = 'center';
+
+const pElement = document.querySelector('p');
+pElement.style.textAlign = 'center';
+
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
 
